@@ -4,19 +4,19 @@
     "url": "https://notefy-site.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/notefy-site.vercel.app.ico",
     "slug": "notefy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1300,
-    "timeDay": 1690,
-    "timeWeek": 1729,
-    "timeMonth": 1476,
-    "timeYear": 1300,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1311,
+    "timeDay": 1740,
+    "timeWeek": 1736,
+    "timeMonth": 1486,
+    "timeYear": 1311,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 18
     }
   }
 ]
