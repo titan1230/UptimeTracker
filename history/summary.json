@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/notefy-site.vercel.app.ico",
     "slug": "notefy",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 1346,
-    "timeDay": 1974,
-    "timeWeek": 1670,
-    "timeMonth": 1450,
-    "timeYear": 1346,
+    "uptimeYear": "99.98%",
+    "time": 1328,
+    "timeDay": 334,
+    "timeWeek": 1489,
+    "timeMonth": 1409,
+    "timeYear": 1328,
     "dailyMinutesDown": {
       "2024-10-22": 18
     }
